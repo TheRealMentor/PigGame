@@ -9,4 +9,5 @@ GAME RULES:
 - The first player to reach 100 points on GLOBAL score wins the game.
 - Players can also set the final winning score (Default is 100).
 
-Credits: Photo by JESHOOTS.COM on Unsplash
+Credits: - Photo by JESHOOTS.COM on Unsplash.
+         - This is game is made after taking a course on Udemy.
